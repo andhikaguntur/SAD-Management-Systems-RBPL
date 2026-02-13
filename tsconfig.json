@@ -19,7 +19,9 @@
 	"files": [],
 	"references": [
 		{ "path": "packages/shared" },
-		{ "path": "apps/frontend" },
-		{ "path": "apps/backend" }
+		{ "path": "apps/api" },
+		{ "path": "apps/web-admin" },
+		{ "path": "apps/web-manager" },
+		{ "path": "apps/web-user" }
 	]
 }
