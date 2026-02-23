@@ -1,6 +1,7 @@
 import express from "express";
 import cors from "cors";
 import { User } from "@shared/types";
+import { UserDTO } from "@contract/user/user.contract";
 
 const app = express();
 app.use(cors());
